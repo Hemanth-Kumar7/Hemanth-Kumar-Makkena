@@ -29,8 +29,7 @@ I enjoy working with **modern web technologies** and exploring **data visualizat
 
 ## 📫 Connect with Me  
 📧 **Email:** hemanth63049@gmail.com  
-🔗 **LinkedIn:** hemanth-kumar-makkena-/ 
-🐦 **Twitter:** [Your Twitter Handle]  
+🔗 **LinkedIn:** hemanth-kumar-makkena  
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="500" alt="Keep Coding">
