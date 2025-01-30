@@ -28,8 +28,8 @@ I enjoy working with **modern web technologies** and exploring **data visualizat
 🚀 Explore my **frontend development** and **data visualization** projects in my repositories!  
 
 ## 📫 Connect with Me  
-📧 **Email:** [hemanth63049@gmail.com]  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/hemanth-kumar-makkena-/]  
+📧 **Email:** hemanth63049@gmail.com  
+🔗 **LinkedIn:** hemanth-kumar-makkena-/ 
 🐦 **Twitter:** [Your Twitter Handle]  
 
 <p align="center">
